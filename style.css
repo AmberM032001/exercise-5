@@ -1,8 +1,24 @@
 h1{
-    color:palevioletred;
+    color:lightcyan;
   } 
 
   .square {
-    background-color: lightpink;
+    background-color: ;
     width: 50%;
+  }
+
+  #lightpink {
+    background-color: #FFB6C1
+  }
+
+  #lightblue {
+    background-color: #87CEFA
+  }
+
+  #lightgreen {
+    background-color: #98FB98
+  }
+
+  #lightyellow {
+    background-color: #ffffe0
   }
